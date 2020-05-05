@@ -1,0 +1,7 @@
+{
+  "manifests/file.pp": "4943400556e1d56da92900504bbb256b",
+  "metadata.json": "4707f789103c82e4c03ae05d69e29435",
+  "manifests/init.pp": "bc6f6edfd993e1f45a743797798c05db",
+  "README.md": "5d1b9cf7c0361ff7ed6364d4d9a51576",
+  "Rakefile": "20b80e526e351a74df2001f504e756d2"
+}

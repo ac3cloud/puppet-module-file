@@ -1,0 +1,13 @@
+{
+  "name": "rajeshwaran-file",
+  "version": "0.0.1",
+  "author": "rajeshwaran",
+  "summary": "Wrapper around the file resource type",
+  "license": "Apache 2.0",
+  "source": "https://github.com/grajeshwaran/puppet-module-file.git",
+  "issues_url": null,
+  "project_page": null,
+  "dependencies": [
+    {"name":"puppetlabs-stdlib"}
+  ]
+}
